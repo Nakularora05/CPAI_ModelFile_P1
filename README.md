@@ -4,7 +4,11 @@ This model provides AI-driven financial forecasting insights based on economic t
 
 **Open WebUI link**
 https://openwebui.com/m/nakul05/buffettvision
+
+
 **Sample Questions and Answers**
+
+
 1️⃣ Prompt:
 "What are the key economic indicators influencing financial markets in 2025?"
 
